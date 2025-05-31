@@ -19,10 +19,10 @@ function Exercise3() {
       </nav>
 
       {/* Grid */}
-      <div className="container mb-5">
-        <div className="row">
-          <div className="col-md-6 grid-box">First col</div>
-          <div className="col-md-6 grid-box">Second col</div>
+      <div className="container mb-12">
+        <div className="row"> 
+          <div className="col-md-12 grid-box">First col</div>
+
         </div>
         <div className="row">
           <div className="col-md-4 grid-box">col</div>

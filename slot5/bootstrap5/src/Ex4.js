@@ -2,13 +2,20 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import React from "react";
 import "./App4.css";
 
+const Contact = () =>{
+  <div>
+    <h2>
+      Contact
+    </h2>
+  </div>
+}
 function ExerciseFPT() {
   return (
     <div>
       {/* Header */}
       <div className="header text-white py-4">
         <img
-          src="/images.png"
+          src="logofpt.jpg"
           alt="FPT University"
           className="logo"
         />
@@ -27,7 +34,7 @@ function ExerciseFPT() {
 
       {/* Contact Section */}
       <div className="section" id="contact">
-        <h2>Contact</h2>
+        <Contact></Contact>
         <p>
           For any inquiries, please contact us at{" "}
           <a href="mailto:example@example.com">example@example.com</a>.

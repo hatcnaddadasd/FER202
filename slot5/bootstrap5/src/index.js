@@ -3,11 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Exercise5 from './Ex5.js';
+import ExerciseFPT from './Ex4.js';
+import Exercise3 from './App.js';
+import ExerciseCards from './Ex7.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Exercise5/>
+      <ExerciseCards/>
     </React.StrictMode>
 );
 

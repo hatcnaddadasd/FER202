@@ -1,0 +1,27 @@
+.card-blue {
+  background-color: #1e90ff;
+}
+
+.card-yellow {
+  background-color: #f1c40f;
+}
+
+.card-red {
+  background-color: #c0392b;
+}
+
+/* NEW: Tăng chiều cao background */
+.card-height {
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 25px;
+}
+
+/* NEW: Giới hạn chiều cao ảnh và canh giữa */
+.custom-img {
+  max-height: 200px;
+  object-fit: contain;
+
+}

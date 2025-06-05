@@ -1,0 +1,16 @@
+.custom-border-box {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+  width: 50%;      /* Giảm chiều rộng còn 50% */
+  margin: 0 auto;  /* Căn giữa */
+}
+
+.custom-logo {
+  width: 500px;
+  height: 200px;
+}
+.hehe{
+  margin-top: 30px;
+  margin-right: 70px;
+}

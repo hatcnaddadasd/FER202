@@ -7,16 +7,22 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import SearchFilter from "./Components/Ex6";
 import DragAndDropList from "./Components/Ex7";
+import Counters from "./Components/Vidu1";
+import MyName from "./Components/Vidu2";
+import ProductList from "./Components/Vidu3";
 function App() {
   return(
     <div>
-    <Counter/>
+      <Counters/>
+      <MyName/>
+      <ProductList/>
+    {/* <Counter/>
     <Input/>
     <Toggle/>
     <TodoApp/>
     <ColorSwitcher/>
     <SearchFilter/>
-<DragAndDropList/>
+<DragAndDropList/> */}
     </div>
 
   )

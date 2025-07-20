@@ -1,0 +1,91 @@
+{
+  "homestays": [
+    {
+      "id": "1",
+      "name": "Homestay Biển Xanh1",
+      "description": "Homestay sát biển, view đẹp, đầy đủ tiện nghi, cách trung tâm 5 phút đi bộ",
+      "price": "1.500.000",
+      "currentPrice": "1.200.000",
+      "image": "/homestay1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Homestay Núi Rừng Đà Lạt",
+      "description": "Nằm giữa rừng thông yên tĩnh, có sân BBQ, phòng ấm cúng, thích hợp nghỉ dưỡng",
+      "price": "1.800.000",
+      "currentPrice": "1.500.000",
+      "image": "/homestay2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Homestay View Hồ Tuyền Lâm",
+      "description": "Phòng nghỉ hướng hồ tuyệt đẹp, có bếp riêng, yên tĩnh và riêng tư",
+      "price": 2000000,
+      "currentPrice": 1800000,
+      "image": "/homestay3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Homestay Hội An Cổ",
+      "description": "Nằm trong phố cổ Hội An, kiến trúc cổ kính, có sân vườn và cafe ngoài trời",
+      "price": "1.300.000",
+      "currentPrice": "1.000.000",
+      "image": "/homestay4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Homestay Sapa Mây Trắng",
+      "description": "Nằm giữa núi rừng Sapa, phòng có cửa kính ngắm mây trôi, nhà hàng và dịch vụ spa",
+      "price": "2.200.000",
+      "currentPrice": "1.800.000",
+      "image": "/homestay5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Homestay Tam Đảo Thung Lũng",
+      "description": "Khu nghỉ dưỡng nằm giữa thung lũng Tam Đảo, có bể bơi vô cực, free ăn sáng",
+      "price": "1.800.000",
+      "currentPrice": "1.500.000",
+      "image": "/homestay6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Homestay Cần Giờ Xanh",
+      "description": "Phòng nghỉ gần biển, có bếp, sân BBQ, phù hợp nhóm bạn và gia đình",
+      "price": "1.200.000",
+      "currentPrice": "1.000.000",
+      "image": "/homestay7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Homestay Nha Trang Center",
+      "description": "Phòng đẹp, nội thất hiện đại, view biển trực diện, nằm trong khu trung tâm",
+      "price": "2.400.000",
+      "currentPrice": "1.950.000",
+      "image": "/homestay8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Homestay Mũi Né Sóng Biển",
+      "description": "Bungalow sát biển, thiết kế mộc mạc, gần các quán hải sản và khu vui chơi",
+      "price": "1.700.000",
+      "currentPrice": "1.400.000",
+      "image": "/homestay9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Homestay Hà Giang Đá Trắng",
+      "description": "Nằm trên cao nguyên đá Hà Giang, phòng có ban công, thích hợp du lịch phượt",
+      "price": "1.000.000",
+      "currentPrice": "850.000",
+      "image": "/homestay10.jpg"
+    },
+    {
+      "id": "4f54",
+      "name": "hehe",
+      "description": "hehe",
+      "price": "121313",
+      "currentPrice": "12313"
+    }
+  ]
+}
